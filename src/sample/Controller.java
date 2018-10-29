@@ -55,7 +55,7 @@ public class Controller {
 
     }
 
-    public void clickButtonDot() {
+    public void clickButtonResult() {
 
     }
 
